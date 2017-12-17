@@ -1,0 +1,10 @@
+[package]
+name = "append"
+description = "Trait for adding to collections"
+version = "0.1.0"
+authors = ["Stephen Sherratt <sfsherratt@gmail.com>"]
+license = "MIT"
+documentation = "https://docs.rs/append"
+repository = "https://github.com/stevebob/append.git"
+homepage = "https://github.com/stevebob/append.git"
+readme = "README.md"
